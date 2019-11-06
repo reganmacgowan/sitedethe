@@ -114,23 +114,23 @@ header {
 .home-title {
     position: absolute;
     top: 30%;
+max-width: 800px
+
 }
 
 
 .home-title h1 {
     font-size: 340%;
     color: #fff;
-    
-    
+
 }
 
 .home-title h1 span {
     font-weight: 700;
-    
+
 }
 
 .home-title p {
-    
     color: #fff;
 }
 
